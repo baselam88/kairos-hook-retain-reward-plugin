@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Structures a short or post: hook names the constraint (0-3s), retain stacks the cost of leaving it broken, reward pays off with one usable operating rule.",
+  "keywords": [
+    "hook",
+    "kairos",
+    "retain",
+    "reward",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-hook-retain-reward",
+  "repository": "https://github.com/baselam88/kairos-hook-retain-reward-plugin",
+  "version": "0.1.0"
+}
